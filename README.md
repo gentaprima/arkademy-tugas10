@@ -14,4 +14,3 @@ for a given task.
 SCREENSHOOT
 *******************
 <a href="https://drive.google.com/drive/folders/1dbKqCO-4C-owFvy9jpK5xDi52xivXwJk?usp=sharing">All ScreenShot</a>
-![Image](https://drive.google.com/drive/u/0/folders/1dbKqCO-4C-owFvy9jpK5xDi52xivXwJk)
